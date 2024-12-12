@@ -1,6 +1,6 @@
-# Hi 👋 My name is Justin Hill
+# Hi 👋 I'm Justin
 
-## Software Engineer
+## Engineer
 
 As a child, my two favorite subjects were math and literature. I believe my interest in programming comes from the unique way it combines these two fields, using mathematics to solve problems through the medium of code.
 
