@@ -2,7 +2,7 @@
 
 ## Engineer
 
-As a kid, I loved math and literature — so to me, software engineering is the perfect union of solving problems with logic and then expressing same ideas through the medium of language.
+As a kid, I loved math and literature — to me, software engineering is the perfect union of solving problems with logic and expressing those ideas simply through the medium of language.
 
 I've been working on the **Figma monetization team** recently, building out request access flows and scaling our payments model.
 
