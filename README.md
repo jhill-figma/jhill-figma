@@ -2,7 +2,7 @@
 
 ## Engineer
 
-As a child, my two favorite subjects were math and literature. I believe my interest in programming comes from the unique way it combines these two fields, using mathematics to solve problems through the medium of code.
+As a kid, I loved math and literature — so to me, software engineering is the perfect union of solving problems with logic and then expressing same ideas through the medium of language.
 
 I've been working on the **Figma monetization team** recently, building out request access flows and scaling our payments model.
 
